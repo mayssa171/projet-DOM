@@ -1,0 +1,10 @@
+h1 {
+  display: flex;
+  justify-content: center;
+  color: aquamarine;
+}
+h2 {
+  display: flex;
+  justify-content: center;
+  color: rgb(218, 91, 91);
+}
